@@ -19,16 +19,16 @@ We've collected a bunch of twits, then hand labeled the sentiment of each. To ca
 
 ## Contents:
 
-1- Preprocess the Data
-2- Create Bag of Words
-3- Calculate the frequency of words appearaing in messages
-4- Updating Vocabulary by Removing Filtered Words¶
-5- Balancing the classes¶
-6- Neural Network (LSTM and word Embeddings)
-7- Training
-8- Validation of the model
-9- Making Predictions
-10- Testing 
+1. Preprocess the Data
+2. Create Bag of Words
+3. Calculate the frequency of words appearaing in messages
+4. Updating Vocabulary by Removing Filtered Words¶
+5. Balancing the classes¶
+6. Neural Network (LSTM and word Embeddings)
+7. Training
+8. Validation of the model
+9. Making Predictions
+10. Testing 
 
 Acknowledgement:
 
